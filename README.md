@@ -1,4 +1,4 @@
-## Learn Libpcap for fun, code from network and following books:
+## Learn for fun, code from network and following books:
 
 * 网络安全开发包详解 
 * Network Packet Programming 網路封包程式設計
